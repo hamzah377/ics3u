@@ -24,4 +24,6 @@ if first_is_even or second_is_even:
     print(f"The product {first_number} x {second_number} will be an even number.")
 else:
     print(f"The product {first_number} x {second_number} will be an odd number.")
+    Part 2: The inner (or body) diagonal of a cube
+
 
